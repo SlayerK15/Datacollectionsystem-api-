@@ -1,0 +1,313 @@
+2024-12-11 02:03:19,398 - __main__ - INFO - Starting Data Collection System at 2024-12-10 20:33:19.398018
+2024-12-11 02:03:19,436 - core.scheduler - INFO - Starting scheduled scan at 2024-12-10 20:33:19.436867
+2024-12-11 02:03:29,631 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B08N5W4NNB: list index out of range
+2024-12-11 02:03:32,676 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0CJBL2QWY: list index out of range
+2024-12-11 02:03:35,762 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0D7PYTTGH: list index out of range
+2024-12-11 02:03:38,165 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0DNWJB6TQ: list index out of range
+2024-12-11 02:03:41,305 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0BP2M7CCS: list index out of range
+2024-12-11 02:03:44,077 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0DDQ6HFR8: list index out of range
+2024-12-11 02:03:47,362 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0DG5CY2Y2: list index out of range
+2024-12-11 02:03:50,686 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0CN18M8CM: list index out of range
+2024-12-11 02:03:53,723 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0D4LWYWF9: list index out of range
+2024-12-11 02:03:56,804 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0DG2GCTD7: list index out of range
+2024-12-11 02:04:00,477 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0CR7WG86N: list index out of range
+2024-12-11 02:04:03,229 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0DJCNMC4C: list index out of range
+2024-12-11 02:04:06,213 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0BQJ68HHC: list index out of range
+2024-12-11 02:08:59,478 - __main__ - INFO - Starting Data Collection System at 2024-12-10 20:38:59.478890
+2024-12-11 02:08:59,480 - core.scheduler - INFO - Starting scheduled scan at 2024-12-10 20:38:59.480707
+2024-12-11 02:09:00,997 - AmazonSpider - INFO - Extracted 30 product links
+2024-12-11 02:12:22,124 - __main__ - INFO - Starting Data Collection System at 2024-12-10 20:42:22.124683
+2024-12-11 02:12:22,126 - core.scheduler - INFO - Starting scheduled scan at 2024-12-10 20:42:22.126807
+2024-12-11 02:12:22,127 - core.spider_manager - INFO - Starting product link extraction
+2024-12-11 02:12:23,409 - AmazonSpider - INFO - Extracted 29 product links
+2024-12-11 02:12:23,410 - core.spider_manager - INFO - Initial product links found: 10
+2024-12-11 02:12:24,671 - AmazonSpider - INFO - Extracted 30 product links
+2024-12-11 02:12:25,717 - AmazonSpider - INFO - Extracted 28 product links
+2024-12-11 02:12:26,781 - AmazonSpider - INFO - Extracted 27 product links
+2024-12-11 02:12:27,863 - AmazonSpider - INFO - Extracted 23 product links
+2024-12-11 02:12:29,074 - AmazonSpider - INFO - Extracted 23 product links
+2024-12-11 02:12:29,075 - core.spider_manager - INFO - Total product links after pagination: 45
+2024-12-11 02:12:29,075 - core.spider_manager - INFO - Processing product 1/45
+2024-12-11 02:12:29,075 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D9QQ7SS1
+2024-12-11 02:12:35,189 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D9QQ7SS1
+2024-12-11 02:12:35,211 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D9QQ7SS1
+2024-12-11 02:12:35,211 - core.spider_manager - INFO - Processing product 2/45
+2024-12-11 02:12:35,212 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B08N5W4NNB
+2024-12-11 02:12:40,879 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B08N5W4NNB
+2024-12-11 02:12:40,883 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B08N5W4NNB
+2024-12-11 02:12:40,883 - core.spider_manager - INFO - Processing product 3/45
+2024-12-11 02:12:40,883 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DJCQ8D3J
+2024-12-11 02:12:46,503 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DJCQ8D3J
+2024-12-11 02:12:46,504 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DJCQ8D3J
+2024-12-11 02:12:46,504 - core.spider_manager - INFO - Processing product 4/45
+2024-12-11 02:12:46,504 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D6NCVQZQ
+2024-12-11 02:12:52,826 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D6NCVQZQ
+2024-12-11 02:12:52,827 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D6NCVQZQ
+2024-12-11 02:12:52,828 - core.spider_manager - INFO - Processing product 5/45
+2024-12-11 02:12:52,828 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DB1SDB87
+2024-12-11 02:12:59,974 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DB1SDB87
+2024-12-11 02:12:59,980 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DB1SDB87
+2024-12-11 02:12:59,980 - core.spider_manager - INFO - Processing product 6/45
+2024-12-11 02:12:59,980 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0BQJ7WR2R
+2024-12-11 02:13:06,868 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0BQJ7WR2R
+2024-12-11 02:13:06,870 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0BQJ7WR2R
+2024-12-11 02:13:06,871 - core.spider_manager - INFO - Processing product 7/45
+2024-12-11 02:13:06,871 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CP2KRYLM
+2024-12-11 02:13:13,733 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CP2KRYLM
+2024-12-11 02:13:13,736 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CP2KRYLM
+2024-12-11 02:13:13,736 - core.spider_manager - INFO - Processing product 8/45
+2024-12-11 02:13:13,736 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CSG4G18G
+2024-12-11 02:13:20,495 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CSG4G18G
+2024-12-11 02:13:20,497 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CSG4G18G
+2024-12-11 02:13:20,498 - core.spider_manager - INFO - Processing product 9/45
+2024-12-11 02:13:20,498 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DLJ82ZMT
+2024-12-11 02:13:25,354 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DLJ82ZMT
+2024-12-11 02:13:25,357 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DLJ82ZMT
+2024-12-11 02:13:25,357 - core.spider_manager - INFO - Processing product 10/45
+2024-12-11 02:13:25,357 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DJCWZ5BT
+2024-12-11 02:13:31,280 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DJCWZ5BT
+2024-12-11 02:13:31,283 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DJCWZ5BT
+2024-12-11 02:13:31,283 - core.spider_manager - INFO - Processing product 11/45
+2024-12-11 02:13:31,284 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0B4JPC8GT
+2024-12-11 02:13:37,738 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0B4JPC8GT
+2024-12-11 02:13:37,740 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0B4JPC8GT
+2024-12-11 02:13:37,740 - core.spider_manager - INFO - Processing product 12/45
+2024-12-11 02:13:37,740 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DLHQC28P
+2024-12-11 02:13:42,529 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DLHQC28P
+2024-12-11 02:13:42,531 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DLHQC28P
+2024-12-11 02:13:42,531 - core.spider_manager - INFO - Processing product 13/45
+2024-12-11 02:13:42,531 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CJ94X1NV
+2024-12-11 02:13:48,584 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CJ94X1NV
+2024-12-11 02:13:48,585 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CJ94X1NV
+2024-12-11 02:13:48,586 - core.spider_manager - INFO - Processing product 14/45
+2024-12-11 02:13:48,586 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D2DDJ6PJ
+2024-12-11 02:13:54,477 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D2DDJ6PJ
+2024-12-11 02:13:54,479 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D2DDJ6PJ
+2024-12-11 02:13:54,479 - core.spider_manager - INFO - Processing product 15/45
+2024-12-11 02:13:54,480 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B09LCF8XKF
+2024-12-11 02:14:00,547 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B09LCF8XKF
+2024-12-11 02:14:00,551 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B09LCF8XKF
+2024-12-11 02:14:00,552 - core.spider_manager - INFO - Processing product 16/45
+2024-12-11 02:14:00,552 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CY2PZZJB
+2024-12-11 02:14:06,787 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CY2PZZJB
+2024-12-11 02:14:06,789 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CY2PZZJB
+2024-12-11 02:14:06,790 - core.spider_manager - INFO - Processing product 17/45
+2024-12-11 02:14:06,790 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DJ18SY5Z
+2024-12-11 02:14:12,917 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DJ18SY5Z
+2024-12-11 02:14:12,919 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DJ18SY5Z
+2024-12-11 02:14:12,919 - core.spider_manager - INFO - Processing product 18/45
+2024-12-11 02:14:12,920 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CL5L59Z9
+2024-12-11 02:14:18,746 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CL5L59Z9
+2024-12-11 02:14:18,749 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CL5L59Z9
+2024-12-11 02:14:18,749 - core.spider_manager - INFO - Processing product 19/45
+2024-12-11 02:14:18,749 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B09LCJ87VC
+2024-12-11 02:14:24,397 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B09LCJ87VC
+2024-12-11 02:14:24,401 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B09LCJ87VC
+2024-12-11 02:14:24,401 - core.spider_manager - INFO - Processing product 20/45
+2024-12-11 02:14:24,401 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D4LZMJ5Z
+2024-12-11 02:14:30,511 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D4LZMJ5Z
+2024-12-11 02:14:30,513 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D4LZMJ5Z
+2024-12-11 02:14:30,513 - core.spider_manager - INFO - Processing product 21/45
+2024-12-11 02:14:30,513 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D2DHNKFB
+2024-12-11 02:14:36,496 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D2DHNKFB
+2024-12-11 02:14:36,498 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D2DHNKFB
+2024-12-11 02:14:36,498 - core.spider_manager - INFO - Processing product 22/45
+2024-12-11 02:14:36,498 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CRKX3JRT
+2024-12-11 02:14:42,600 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CRKX3JRT
+2024-12-11 02:14:42,602 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CRKX3JRT
+2024-12-11 02:14:42,602 - core.spider_manager - INFO - Processing product 23/45
+2024-12-11 02:14:42,603 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D46QQHW6
+2024-12-11 02:14:48,735 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D46QQHW6
+2024-12-11 02:14:48,738 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D46QQHW6
+2024-12-11 02:14:48,738 - core.spider_manager - INFO - Processing product 24/45
+2024-12-11 02:14:48,739 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D262KC1J
+2024-12-11 02:14:54,822 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D262KC1J
+2024-12-11 02:14:54,825 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D262KC1J
+2024-12-11 02:14:54,825 - core.spider_manager - INFO - Processing product 25/45
+2024-12-11 02:14:54,825 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0BP2M7CCS
+2024-12-11 02:15:01,089 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0BP2M7CCS
+2024-12-11 02:15:01,091 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0BP2M7CCS
+2024-12-11 02:15:01,091 - core.spider_manager - INFO - Processing product 26/45
+2024-12-11 02:15:01,092 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B08HJWSGW6
+2024-12-11 02:15:07,077 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B08HJWSGW6
+2024-12-11 02:15:07,079 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B08HJWSGW6
+2024-12-11 02:15:07,079 - core.spider_manager - INFO - Processing product 27/45
+2024-12-11 02:15:07,080 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0BD4CHCB5
+2024-12-11 02:15:13,817 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0BD4CHCB5
+2024-12-11 02:15:13,819 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0BD4CHCB5
+2024-12-11 02:15:13,819 - core.spider_manager - INFO - Processing product 28/45
+2024-12-11 02:15:13,819 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0BWS9YNCX
+2024-12-11 02:15:19,895 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0BWS9YNCX
+2024-12-11 02:15:19,898 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0BWS9YNCX
+2024-12-11 02:15:19,898 - core.spider_manager - INFO - Processing product 29/45
+2024-12-11 02:15:19,898 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DLHGCB3C
+2024-12-11 02:15:24,696 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DLHGCB3C
+2024-12-11 02:15:24,699 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DLHGCB3C
+2024-12-11 02:15:24,699 - core.spider_manager - INFO - Processing product 30/45
+2024-12-11 02:15:24,700 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B09MM58Y7Q
+2024-12-11 02:15:30,776 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B09MM58Y7Q
+2024-12-11 02:15:30,778 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B09MM58Y7Q
+2024-12-11 02:15:30,780 - core.spider_manager - INFO - Processing product 31/45
+2024-12-11 02:15:30,780 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D49RN3X6
+2024-12-11 02:15:36,722 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D49RN3X6
+2024-12-11 02:15:36,724 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D49RN3X6
+2024-12-11 02:15:36,724 - core.spider_manager - INFO - Processing product 32/45
+2024-12-11 02:15:36,724 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DNMK4NNV
+2024-12-11 02:15:42,426 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DNMK4NNV
+2024-12-11 02:15:42,428 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DNMK4NNV
+2024-12-11 02:15:42,428 - core.spider_manager - INFO - Processing product 33/45
+2024-12-11 02:15:42,429 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0D98J15GY
+2024-12-11 02:15:48,613 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0D98J15GY
+2024-12-11 02:15:48,617 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0D98J15GY
+2024-12-11 02:15:48,617 - core.spider_manager - INFO - Processing product 34/45
+2024-12-11 02:15:48,617 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CRKXDX83
+2024-12-11 02:15:54,598 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CRKXDX83
+2024-12-11 02:15:54,599 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CRKXDX83
+2024-12-11 02:15:54,599 - core.spider_manager - INFO - Processing product 35/45
+2024-12-11 02:15:54,600 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DDL495SX
+2024-12-11 02:16:00,666 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DDL495SX
+2024-12-11 02:16:00,669 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DDL495SX
+2024-12-11 02:16:00,669 - core.spider_manager - INFO - Processing product 36/45
+2024-12-11 02:16:00,670 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DLHDMN75
+2024-12-11 02:16:05,459 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DLHDMN75
+2024-12-11 02:16:05,460 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DLHDMN75
+2024-12-11 02:16:05,461 - core.spider_manager - INFO - Processing product 37/45
+2024-12-11 02:16:05,461 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DLHXVCXJ
+2024-12-11 02:16:10,190 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DLHXVCXJ
+2024-12-11 02:16:10,193 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DLHXVCXJ
+2024-12-11 02:16:10,193 - core.spider_manager - INFO - Processing product 38/45
+2024-12-11 02:16:10,193 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CCSSGRDQ
+2024-12-11 02:16:16,439 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CCSSGRDQ
+2024-12-11 02:16:16,441 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CCSSGRDQ
+2024-12-11 02:16:16,441 - core.spider_manager - INFO - Processing product 39/45
+2024-12-11 02:16:16,441 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DLHWMPQL
+2024-12-11 02:16:21,432 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DLHWMPQL
+2024-12-11 02:16:21,434 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DLHWMPQL
+2024-12-11 02:16:21,434 - core.spider_manager - INFO - Processing product 40/45
+2024-12-11 02:16:21,434 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CXPXJT5P
+2024-12-11 02:16:27,369 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CXPXJT5P
+2024-12-11 02:16:27,371 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CXPXJT5P
+2024-12-11 02:16:27,371 - core.spider_manager - INFO - Processing product 41/45
+2024-12-11 02:16:27,371 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DHTZ6FLG
+2024-12-11 02:16:33,316 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DHTZ6FLG
+2024-12-11 02:16:33,319 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DHTZ6FLG
+2024-12-11 02:16:33,320 - core.spider_manager - INFO - Processing product 42/45
+2024-12-11 02:16:33,320 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DMTPY8PJ
+2024-12-11 02:16:39,016 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DMTPY8PJ
+2024-12-11 02:16:39,018 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DMTPY8PJ
+2024-12-11 02:16:39,018 - core.spider_manager - INFO - Processing product 43/45
+2024-12-11 02:16:39,019 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CX22LYY9
+2024-12-11 02:16:44,118 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0CX22LYY9
+2024-12-11 02:16:44,120 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0CX22LYY9
+2024-12-11 02:16:44,120 - core.spider_manager - INFO - Processing product 44/45
+2024-12-11 02:16:44,120 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DKT4SRBV
+2024-12-11 02:16:50,004 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DKT4SRBV
+2024-12-11 02:16:50,005 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DKT4SRBV
+2024-12-11 02:16:50,006 - core.spider_manager - INFO - Processing product 45/45
+2024-12-11 02:16:50,006 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0C3R5VWP3
+2024-12-11 02:16:55,966 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0C3R5VWP3
+2024-12-11 02:16:55,969 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0C3R5VWP3
+2024-12-11 02:16:55,969 - core.spider_manager - INFO - Completed processing all products
+2024-12-11 02:27:59,195 - __main__ - INFO - Starting Data Collection System at 2024-12-10 20:57:59.195731
+2024-12-11 02:27:59,197 - core.scheduler - INFO - Starting scheduled scan at 2024-12-10 20:57:59.197742
+2024-12-11 02:27:59,198 - core.spider_manager - INFO - Starting product link extraction
+2024-12-11 02:28:00,639 - AmazonSpider - INFO - Extracted 30 product links
+2024-12-11 02:28:00,639 - core.spider_manager - INFO - Initial product links found: 10
+2024-12-11 02:28:01,673 - AmazonSpider - INFO - Extracted 30 product links
+2024-12-11 02:28:02,708 - AmazonSpider - INFO - Extracted 28 product links
+2024-12-11 02:28:04,117 - AmazonSpider - INFO - Extracted 27 product links
+2024-12-11 02:28:05,222 - AmazonSpider - INFO - Extracted 23 product links
+2024-12-11 02:28:06,732 - AmazonSpider - INFO - Extracted 23 product links
+2024-12-11 02:28:06,732 - core.spider_manager - INFO - Total product links after pagination: 47
+2024-12-11 02:28:06,733 - core.spider_manager - INFO - Processing product 1/47
+2024-12-11 02:28:06,733 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DHN43SY7
+2024-12-11 02:28:12,377 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0DHN43SY7: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+Traceback (most recent call last):
+  File "D:\data_collection_system\spiders\amazon_spider.py", line 71, in extract_product_data
+    specifications=self._create_laptop_specs(tech_specs),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+2024-12-11 02:28:12,380 - core.spider_manager - WARNING - No data extracted for: https://www.amazon.in/dp/B0DHN43SY7
+2024-12-11 02:28:12,381 - core.spider_manager - INFO - Processing product 2/47
+2024-12-11 02:28:12,381 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DFWVTQQ7
+2024-12-11 02:28:18,150 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0DFWVTQQ7: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+Traceback (most recent call last):
+  File "D:\data_collection_system\spiders\amazon_spider.py", line 71, in extract_product_data
+    specifications=self._create_laptop_specs(tech_specs),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+2024-12-11 02:28:18,153 - core.spider_manager - WARNING - No data extracted for: https://www.amazon.in/dp/B0DFWVTQQ7
+2024-12-11 02:28:18,153 - core.spider_manager - INFO - Processing product 3/47
+2024-12-11 02:28:18,153 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CP2KRYLM
+2024-12-11 02:28:24,905 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0CP2KRYLM: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+Traceback (most recent call last):
+  File "D:\data_collection_system\spiders\amazon_spider.py", line 71, in extract_product_data
+    specifications=self._create_laptop_specs(tech_specs),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+2024-12-11 02:28:24,913 - core.spider_manager - WARNING - No data extracted for: https://www.amazon.in/dp/B0CP2KRYLM
+2024-12-11 02:28:24,913 - core.spider_manager - INFO - Processing product 4/47
+2024-12-11 02:28:24,913 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DB1WCBBS
+2024-12-11 02:28:31,792 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0DB1WCBBS: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+Traceback (most recent call last):
+  File "D:\data_collection_system\spiders\amazon_spider.py", line 71, in extract_product_data
+    specifications=self._create_laptop_specs(tech_specs),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+2024-12-11 02:28:31,800 - core.spider_manager - WARNING - No data extracted for: https://www.amazon.in/dp/B0DB1WCBBS
+2024-12-11 02:28:31,800 - core.spider_manager - INFO - Processing product 5/47
+2024-12-11 02:28:31,800 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CHJJZ9G8
+2024-12-11 02:28:38,866 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0CHJJZ9G8: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+Traceback (most recent call last):
+  File "D:\data_collection_system\spiders\amazon_spider.py", line 71, in extract_product_data
+    specifications=self._create_laptop_specs(tech_specs),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+2024-12-11 02:28:38,873 - core.spider_manager - WARNING - No data extracted for: https://www.amazon.in/dp/B0CHJJZ9G8
+2024-12-11 02:28:38,873 - core.spider_manager - INFO - Processing product 6/47
+2024-12-11 02:28:38,873 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CX8XPKWJ
+2024-12-11 02:28:45,770 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0CX8XPKWJ: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+Traceback (most recent call last):
+  File "D:\data_collection_system\spiders\amazon_spider.py", line 71, in extract_product_data
+    specifications=self._create_laptop_specs(tech_specs),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+2024-12-11 02:28:45,779 - core.spider_manager - WARNING - No data extracted for: https://www.amazon.in/dp/B0CX8XPKWJ
+2024-12-11 02:28:45,780 - core.spider_manager - INFO - Processing product 7/47
+2024-12-11 02:28:45,780 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0BP2M7CCS
+2024-12-11 02:28:51,811 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B0BP2M7CCS: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+Traceback (most recent call last):
+  File "D:\data_collection_system\spiders\amazon_spider.py", line 71, in extract_product_data
+    specifications=self._create_laptop_specs(tech_specs),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+2024-12-11 02:28:51,813 - core.spider_manager - WARNING - No data extracted for: https://www.amazon.in/dp/B0BP2M7CCS
+2024-12-11 02:28:51,813 - core.spider_manager - INFO - Processing product 8/47
+2024-12-11 02:28:51,814 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B09MM58Y7Q
+2024-12-11 02:28:57,871 - AmazonSpider - ERROR - Error extracting product data from https://www.amazon.in/dp/B09MM58Y7Q: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+Traceback (most recent call last):
+  File "D:\data_collection_system\spiders\amazon_spider.py", line 71, in extract_product_data
+    specifications=self._create_laptop_specs(tech_specs),
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AmazonSpider' object has no attribute '_create_laptop_specs'
+2024-12-11 02:28:57,873 - core.spider_manager - WARNING - No data extracted for: https://www.amazon.in/dp/B09MM58Y7Q
+2024-12-11 02:28:57,874 - core.spider_manager - INFO - Processing product 9/47
+2024-12-11 02:28:57,874 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0CXPXJT5P
+2024-12-11 02:30:22,410 - __main__ - INFO - Starting Data Collection System at 2024-12-10 21:00:22.410365
+2024-12-11 02:30:22,412 - core.scheduler - INFO - Starting scheduled scan at 2024-12-10 21:00:22.412209
+2024-12-11 02:30:22,412 - core.spider_manager - INFO - Starting product link extraction
+2024-12-11 02:30:23,678 - AmazonSpider - INFO - Extracted 30 product links
+2024-12-11 02:30:23,678 - core.spider_manager - INFO - Initial product links found: 10
+2024-12-11 02:30:24,660 - AmazonSpider - INFO - Extracted 30 product links
+2024-12-11 02:30:25,784 - AmazonSpider - INFO - Extracted 30 product links
+2024-12-11 02:30:26,832 - AmazonSpider - INFO - Extracted 26 product links
+2024-12-11 02:30:27,912 - AmazonSpider - INFO - Extracted 29 product links
+2024-12-11 02:30:29,088 - AmazonSpider - INFO - Extracted 25 product links
+2024-12-11 02:30:29,089 - core.spider_manager - INFO - Total product links after pagination: 42
+2024-12-11 02:30:29,089 - core.spider_manager - INFO - Processing product 1/42
+2024-12-11 02:30:29,090 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DLHFY1C7
+2024-12-11 02:30:33,927 - AmazonSpider - ERROR - Error creating laptop specs: 'AmazonSpider' object has no attribute '_extract_additional_features'
+2024-12-11 02:30:33,927 - core.spider_manager - INFO - Saving product data for: https://www.amazon.in/dp/B0DLHFY1C7
+2024-12-11 02:30:33,949 - core.spider_manager - INFO - Successfully processed: https://www.amazon.in/dp/B0DLHFY1C7
+2024-12-11 02:30:33,949 - core.spider_manager - INFO - Processing product 2/42
+2024-12-11 02:30:33,949 - core.spider_manager - INFO - Fetching data from: https://www.amazon.in/dp/B0DLHGCB3C
